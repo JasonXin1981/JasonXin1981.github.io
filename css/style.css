@@ -152,9 +152,9 @@ body {
   width: 200px;
   height: 57px;
   background-image: url("images/logo.png");
-  -webkit-background-size: 74px 28px;
-  -moz-background-size: 74px 28px;
-  background-size: 74px 28px;
+  -webkit-background-size: 100px 28px;
+  -moz-background-size: 100px 28px;
+  background-size: 100px 28px;
   background-position: left center;
   background-repeat: no-repeat;
 }
